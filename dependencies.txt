@@ -1,0 +1,18 @@
+# X Config
+xorg
+xorg-server
+xorg-xinit
+xorg-xrandr
+xorg-xsetroot
+
+# Misc
+firefox
+nitrogen
+picom
+vim
+git
+wget
+
+# Fonts
+ttf-freefont
+ttf-font-awesome
